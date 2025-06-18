@@ -49,8 +49,5 @@ Use the dataset in Databricks, Pandas, or any data analysis platform:
 
 ### Load in Pandas:
 
-```python
-import pandas as pd
 
-df = pd.read_csv("sales_data.csv")
 [▶️ Click here to watch the video](demo_1.mp4)
