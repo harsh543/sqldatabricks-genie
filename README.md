@@ -47,7 +47,36 @@ Each row in the dataset represents a single sales transaction. The schema includ
 
 Use the dataset in Databricks, Pandas, or any data analysis platform:
 
-### Load in Pandas:
+# 📊 Key Business Questions for Your Sales Dashboard
+
+## 🔹 Sales Performance Metrics
+
+- What is the **total sales revenue by department** this month?
+- Which departments have the **highest YoY or MoM growth** in sales?
+
+## 🔹 Sales Team Performance
+
+- Who are the **top 5 salespersons** by total sales amount?
+- What is the **average sale per salesperson** by department or store?
+
+## 🔹 Customer Behavior & Transaction Analysis
+
+- What is the **distribution of sales amount** per transaction type?
+- What is the **frequency of purchases** by department over time?
+
+## 🔹 AI-Enhanced Insights to Ask Genie
+
+- Which **features most influence high sales** (e.g., department, city, manager)?
+
+## 🔹 Visual Elements to Include in the Dashboard
+
+- **Bar charts**: Sales by Department, Sales by State  
+- **Line charts**: Daily/Monthly Sales Trends  
+- **Maps**: Sales by Zipcode or City  
+- **Heatmaps**: Sales per Department vs State  
+- **Tables**: Top 10 Salespersons / Managers / Stores  
+- **KPIs**: Total Sales, Avg Sale per Transaction, Number of Transactions  
+
 
 
 [▶️ Click here to watch the video](demo_1.mp4)
